@@ -1,7 +1,7 @@
 # lab-big-query
 
 
-## 🚖 [NYC Taxi Public Dataset - SQL Exercises](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1sambient-handler-443511-v0!2seurope-west3!3saac139de-2f31-45a9-8c3d-9907de87c0a0!2e1)
+## 🚖 [NYC Taxi Public Dataset - SQL Exercises](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1sambient-handler-443511-v0!2seurope-west3!3sa1799411-9db4-4da4-80fd-c7e5aca88c50!2e1)
 
 ### 📋 Description
 
